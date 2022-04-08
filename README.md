@@ -1,6 +1,6 @@
 # Magento 2 Ajax Cart Extension
 
-Compared to <em>Magento 1</em>, <em>Magento 2</em> has added <em>Ajax</em> – an amazing feature – into the buying process, which helps the customers to easily add products to their shopping cart without reloading the page. However, with the <b>Magento 2 Ajax Add To Cart</b> extension, you can do even greater than that.
+Compared to <em>Magento 1</em>, <em>Magento 2</em> has added <em>Ajax</em> – an amazing feature – into the buying process, which helps the customers to easily add products to their shopping cart without reloading the page. However, with the <b><a href="https://www.tigren.com/magento-2-ajax-add-to-cart" rel="nofollow">Magento 2 Ajax Cart</a></b> extension, you can do even greater than that.
 
 </div>
 <p style="text-align: center;"><span style="font-size: 25px; font-style: italic; color: #ff0000;"><strong>
